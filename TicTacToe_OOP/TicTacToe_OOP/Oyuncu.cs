@@ -8,5 +8,6 @@ namespace TicTacToe_OOP
 {
     class Oyuncu
     {
+        
     }
 }

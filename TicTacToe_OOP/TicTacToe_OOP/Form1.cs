@@ -15,6 +15,9 @@ namespace TicTacToe_OOP
         public Form1()
         {
             InitializeComponent();
+            ab = 1;
         }
+        int ab;
+        
     }
 }
