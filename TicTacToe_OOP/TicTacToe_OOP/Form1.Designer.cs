@@ -60,6 +60,7 @@
             this.btnNewGame.TabIndex = 37;
             this.btnNewGame.Text = "New Game";
             this.btnNewGame.UseVisualStyleBackColor = true;
+            this.btnNewGame.Click += new System.EventHandler(this.btnNewGame_Click);
             // 
             // rbMulti
             // 
