@@ -51,7 +51,6 @@
             this.btnExit.TabIndex = 38;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // btnNewGame
             // 

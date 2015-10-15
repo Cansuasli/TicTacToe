@@ -18,11 +18,6 @@ namespace TicTacToe_OOP
             ab = 1;
         }
         int ab;
-
-        private void btnExit_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
         
     }
 }
