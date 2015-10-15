@@ -8,6 +8,7 @@ namespace TicTacToe_OOP
 {
     class Oyuncu
     {
-        
+        public int Ali { get;
+                        set; }
     }
 }
