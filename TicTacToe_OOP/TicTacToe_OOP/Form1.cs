@@ -18,6 +18,11 @@ namespace TicTacToe_OOP
             ab = 1;
         }
         int ab;
+
+        private void btnNewGame_Click(object sender, EventArgs e)
+        {
+            Application.Restart();
+        }
         
     }
 }
